@@ -9,4 +9,5 @@ int main() {
     m=(ts%3600)/60; 
     s=ts%60;          
     printf("\nTime=%d:%d:%d\n", h, m, s);
+
 }
